@@ -1,16 +1,17 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 😊
 
-<!--
-**Uelcarlos/Uelcarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ueliton
 
-Here are some ideas to get you started:
+Sou professor de Física no ensino médio da escola "Jardim das Rosas" no município de Serrana/SP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou aplicando por meio da plataforma do Alura os estudos sobre GitHub para as turmas do 1ºA e 1°C
+
+Estudaremos na linguagem JavaScript
+
+Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Nossas aulas serão realizadas passo a passo. Fiquem atentos!!!
+
+Qualquer dúvida podem entrar em contato comigo pelo 📧
+
+uelitoncarlos@prof.educacao.sp.gov.br
